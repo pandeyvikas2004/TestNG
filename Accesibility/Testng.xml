@@ -1,0 +1,9 @@
+<!-- <suite name="softwaretestingmaterial" parallel="methods" thread-count="4"> -->
+ 
+ <suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ <classes>
+ <class name="TestNGTest.DemoTestNG" />
+ </classes>
+ </test>
+</suite>
